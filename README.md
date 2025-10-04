@@ -36,7 +36,7 @@ Automate sending WhatsApp messages using Python and Twilio API. This project all
     ```
 
 ## Screenshots
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## License
 This project is licensed under the [MIT License](license.txt).
