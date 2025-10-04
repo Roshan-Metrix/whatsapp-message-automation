@@ -32,8 +32,11 @@ Automate sending WhatsApp messages using Python and Twilio API. This project all
 1. Configure your Twilio credentials in the script.
 2. Run the script to send or schedule WhatsApp messages:
     ```bash
-    python send_message.py
+    python main.py
     ```
+
+## Screenshots
+![Screenshot](screenshots/screenshot.png)
 
 ## License
 This project is licensed under the [MIT License](license.txt).
